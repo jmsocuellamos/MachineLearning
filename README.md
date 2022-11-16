@@ -12,8 +12,8 @@ Este repositorio almacena los contenidos del módulo de librerías de Machine Le
 
 PARTE 1: INTRODUCCIÓN AL APRENDIZAJE AUTOMÁTICO
 
-Introducción a los algoritmos de aprendizaje automático
-Scikit-learn
+* Introducción a los algoritmos de aprendizaje automático
+* Librería Scikit-learn
 
 
 PARTE 2: APRENDIZAJE SUPERVISADO
@@ -26,12 +26,14 @@ Modelo de clasificación: K-VECINO MÁS CERCANO
 Modelo de clasificación y regresión: SUPPORT VECTOR MACHINE
 Modelo de clasificación y regresión: DECISION TREE
 Modelo de clasificación y regresión: RANDOM FOREST
+
 PARTE 3: APRENDIZAJE NO SUPERVISADO
 
 Modelos de reducción de la dimensión: COMPONENTES PRINCIPALES
 Modelos de reducción de la dimensión: ANÁLISIS DISCRIMINANTE
 Modelos de reducción de la dimensión: APRENDIZAJE MÚLTIPLE (MANIFOLD LEARNING)
 Modelos de agrupación: K-MEDIAS Y DBSCAN
+
 PARTE 4: AMPLIACIONES
 
 Sistemas de recomendación
