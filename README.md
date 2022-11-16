@@ -29,14 +29,29 @@ PARTE 1: INTRODUCCIÓN AL APRENDIZAJE AUTOMÁTICO
 
 PARTE 2: APRENDIZAJE SUPERVISADO
 
-* Introducción a los modelos de aprendizaje automático supervisado
 * Modelos Lineales de regresión para outputs numéricos
+  * Modelo lineal general (cuaderno, video)
+  * Modelos polinómicos y no lineales (cuaderno, video)
+  * Modelos de regularización (cuaderno, video) 
 * Modelos Lineales de regresión para outputs categóricos
-* Modelo de clasificación: NAIVE BAYES
-* Modelo de clasificación: K-VECINO MÁS CERCANO
+  * Modelos de regresión logística (cuaderno, video)
+  * Modelos de regresión multinomial (cuaderno, video)
+* Modelo de clasificación: NAIVE BAYES 
+  * Modelo para dos grupos (cuaderno, video)
+  * Modelo para múltiples grupos (cuaderno, video)
+* Modelo de clasificación: K-VECINO MÁS CERCANO (cuaderno, video)
 * Modelo de clasificación y regresión: SUPPORT VECTOR MACHINE
+  * Máquinas de vector soporte lineales (cuaderno, video)
+  * Máquinas de vector soporte no lineales (cuaderno, video)  
 * Modelo de clasificación y regresión: DECISION TREE
-* Modelo de clasificación y regresión: RANDOM FOREST
+  * Árboles de clasificación para clasificación (cuaderno, video)
+  * Árboles de clasificación para regresión (cuaderno, video)
+* Modelos de conjunto (ensemble models)
+  * Introducción a los modelos de conjunto (cuaderno, video)
+  * Bosque aleatorio para clasificación (cuaderno, video)
+  * Bosque aleatorio para regresión (cuaderno, video)
+  * Algortimos de boosting para clasificación (cuaderno, video)
+  * Algoritmos de boosting para regresión (cuaderno, video)
 
 PARTE 3: APRENDIZAJE NO SUPERVISADO
 
