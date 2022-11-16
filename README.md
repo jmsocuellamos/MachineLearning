@@ -14,8 +14,9 @@ Fernando Borrás (f.borras@umh.es), Federico Botella (federico@umh.es), Inés He
 *Departamento de Estadística, Matemáticas e Informática.*
 *Universidad Miguel Hernández de Elche.*
 
-## Nivel del tema y dirigido a
+## Dirigido a
 
+## Nivel de dificultad
 
 ## Índice de contenidos
 
