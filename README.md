@@ -2,7 +2,7 @@
 
 # Librerías Machine Learning
 
-Este repositorio almacena los contenidos del módulo de librerías de Machine Learning elaborado por el grupo de trabajo de la Universidad Miguel Hernández de Elche dentro dentro del proyecto UNIDIGITAL-IASAC.
+Este repositorio almacena los contenidos del módulo de librerías de Machine Learning elaborado por el grupo de trabajo de la Universidad Miguel Hernández de Elche dentro dentro del proyecto UNIDIGITAL-IASAC. EL material desarrollado consiste en cuaderno ju`pyter con el código correspondiente a cada capítulo así como un video introducturio de cada tema y un video de conclusiones al final de cada bloque de contenidos.
 
 ## Descripción
 
