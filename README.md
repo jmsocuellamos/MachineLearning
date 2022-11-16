@@ -21,7 +21,7 @@ Fernando Borrás (f.borras@umh.es), Federico Botella (federico@umh.es), Inés He
 
 PARTE 1: INTRODUCCIÓN AL APRENDIZAJE AUTOMÁTICO
 
-* Introducción a los algoritmos de aprendizaje automático (cuaderno, video)
+* Introducción a los algoritmos de aprendizaje automático ([cuaderno](https://github.com/jmsocuellamos/MachineLearning/blob/main/10_Introducci%C3%B3n_al_aprendizaje_autom%C3%A1tico.ipynb), video)
 * Bancos de datos de trabajo (cuaderno, video)
 * Librería Scikit-learn
   * Primeros pasos I (cuaderno, video)
