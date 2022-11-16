@@ -7,6 +7,14 @@ Este repositorio almacena los contenidos del módulo de librerías de Machine Le
 ## Descripción
 
 
+## Profesorado
+
+Fernando Borrás (f.borras@umh.es), Federico Botella (federico@umh.es), Inés Hernández (ines.hernandezp@umh.es), Mª Asunción Martínez Mayoral (asun.mayoral@umh.es), Josep Moltó (j.molto@umh.es), Javier Morales (j.morales@umh.es)
+
+Departamento de Estadística, Matemáticas e Informática.
+
+Universidad Miguel Hernández de Elche.
+
 ## Nivel del tema y dirigido a
 
 
