@@ -2,7 +2,7 @@
 
 # Librerías Machine Learning
 
-Este repositorio almacena los contenidos del módulo de librerías de Machine Learning elaborado por el grupo de trabajo de la Universidad Miguel Hernández de Elche dentro dentro del proyecto UNIDIGITAL-IASAC. EL material desarrollado consiste en cuaderno ju`pyter con el código correspondiente a cada capítulo así como un video introducturio de cada tema y un video de conclusiones al final de cada bloque de contenidos.
+Este repositorio almacena los contenidos del módulo de librerías de Machine Learning elaborado por el grupo de trabajo de la Universidad Miguel Hernández de Elche dentro dentro del proyecto UNIDIGITAL-IASAC. EL material desarrollado consiste en cuadernos jupyter con el código correspondiente a cada tema, así como un video introducturio de cada tema y un video de conclusiones al final de cada bloque de contenidos.
 
 ## Descripción
 
@@ -21,9 +21,11 @@ Fernando Borrás (f.borras@umh.es), Federico Botella (federico@umh.es), Inés He
 
 PARTE 1: INTRODUCCIÓN AL APRENDIZAJE AUTOMÁTICO
 
-* Introducción a los algoritmos de aprendizaje automático
+* Introducción a los algoritmos de aprendizaje automático (cuaderno, video)
+* Bancos de datos de trabajo (cuaderno, video)
 * Librería Scikit-learn
-
+  * Primeros pasos I (cuaderno, video)
+  * Primeros pasos II (cuaderno, video)
 
 PARTE 2: APRENDIZAJE SUPERVISADO
 
