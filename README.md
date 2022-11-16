@@ -44,15 +44,15 @@ Fernando Borrás (f.borras@umh.es), Federico Botella (federico@umh.es), Inés He
 * Modelo de clasificación y regresión: SUPPORT VECTOR MACHINE
   * Máquinas de vector soporte lineales (cuaderno, video)
   * Máquinas de vector soporte no lineales (cuaderno, video)  
-* Modelo de clasificación y regresión: DECISION TREE
-  * Árboles de clasificación para clasificación (cuaderno, video)
-  * Árboles de clasificación para regresión (cuaderno, video)
+* Modelos de árboles de decisión (DECISION TREE)
+  * Árboles de decisión para problemas de clasificación (cuaderno, video)
+  * Árboles de decisión para problemas de regresión (cuaderno, video)
 * Modelos de conjunto (ensemble models)
   * Introducción a los modelos de conjunto (cuaderno, video)
-  * Bosque aleatorio para clasificación (cuaderno, video)
-  * Bosque aleatorio para regresión (cuaderno, video)
-  * Algortimos de boosting para clasificación (cuaderno, video)
-  * Algoritmos de boosting para regresión (cuaderno, video)
+  * Bosque aleatorio para problemas de clasificación (cuaderno, video)
+  * Bosque aleatorio para problemas de regresión (cuaderno, video)
+  * Algortimos de boosting para problemas de clasificación (cuaderno, video)
+  * Algoritmos de boosting para problemas de regresión (cuaderno, video)
 
 **PARTE 3: APRENDIZAJE NO SUPERVISADO**
 
