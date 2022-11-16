@@ -7,6 +7,8 @@ Este repositorio almacena los contenidos del módulo de librerías de Machine Le
 ## Descripción
 
 
+
+
 ## Profesorado
 
 Fernando Borrás (f.borras@umh.es), Federico Botella (federico@umh.es), Inés Hernández (ines.hernandezp@umh.es), Mª Asunción Martínez Mayoral (asun.mayoral@umh.es), Josep Moltó (j.molto@umh.es), Javier Morales (j.morales@umh.es)
@@ -16,7 +18,11 @@ Fernando Borrás (f.borras@umh.es), Federico Botella (federico@umh.es), Inés He
 
 ## Dirigido a
 
+Estudiantes de grado y postgrado con un curso básico de programación en python y de estadística interesados en conocer el funcionamiento de los procedimientos o algoritmos de machine learning (aprendizaje automático) en la aplaicación de situaciones reales.
+
 ## Nivel de dificultad
+
+El grado de dificultad de la mayoría de los contenidos presentados ese puede considerar de nivel intermedio debido a los requisitos para comprender y desarrollar la mayoría de ellos. En algunos temas el nivel es más avanzado al tratarse de algortimos más teóricos o cun desarrollo matemático superior.
 
 ## Índice de contenidos
 
