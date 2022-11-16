@@ -19,7 +19,7 @@ Fernando Borrás (f.borras@umh.es), Federico Botella (federico@umh.es), Inés He
 
 ## Índice de contenidos
 
-PARTE 1: INTRODUCCIÓN AL APRENDIZAJE AUTOMÁTICO
+**PARTE 1: INTRODUCCIÓN AL APRENDIZAJE AUTOMÁTICO**
 
 * Introducción a los algoritmos de aprendizaje automático ([cuaderno](https://github.com/jmsocuellamos/MachineLearning/blob/main/10_Introducci%C3%B3n_al_aprendizaje_autom%C3%A1tico.ipynb), video)
 * Bancos de datos de trabajo (cuaderno, video)
@@ -27,7 +27,7 @@ PARTE 1: INTRODUCCIÓN AL APRENDIZAJE AUTOMÁTICO
   * Primeros pasos I (cuaderno, video)
   * Primeros pasos II (cuaderno, video)
 
-PARTE 2: APRENDIZAJE SUPERVISADO
+**PARTE 2: APRENDIZAJE SUPERVISADO**
 
 * Modelos Lineales de regresión para outputs numéricos
   * Modelo lineal general (cuaderno, video)
@@ -53,14 +53,14 @@ PARTE 2: APRENDIZAJE SUPERVISADO
   * Algortimos de boosting para clasificación (cuaderno, video)
   * Algoritmos de boosting para regresión (cuaderno, video)
 
-PARTE 3: APRENDIZAJE NO SUPERVISADO
+**PARTE 3: APRENDIZAJE NO SUPERVISADO**
 
 * Modelos de reducción de la dimensión: COMPONENTES PRINCIPALES
 * Modelos de reducción de la dimensión: ANÁLISIS DISCRIMINANTE
 * Modelos de reducción de la dimensión: APRENDIZAJE MÚLTIPLE (MANIFOLD LEARNING)
 * Modelos de agrupación: K-MEDIAS Y DBSCAN
 
-PARTE 4: AMPLIACIONES
+**PARTE 4: AMPLIACIONES**
 
 * Sistemas de recomendación
 * Procesado de lenguaje natural y análisis sentimental
