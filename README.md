@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://github.com/ia4legos/MachineLearning/blob/main/images/IASAC-UMH.png))
+<small><img src=https://raw.githubusercontent.com/ia4legos/MachineLearning/main/images/IASAC-UMH.png width="450" height="200"></small>
 
 # Librerías Machine Learning
 
