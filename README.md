@@ -51,7 +51,7 @@ Fernando Borrás (f.borras@umh.es), Federico Botella (federico@umh.es), Inés He
   * Introducción a los modelos de conjunto (cuaderno, video)
   * Bosque aleatorio para problemas de clasificación (cuaderno, video)
   * Bosque aleatorio para problemas de regresión (cuaderno, video)
-  * Algortimos de boosting para problemas de clasificación (cuaderno, video)
+  * Algoritmos de boosting para problemas de clasificación (cuaderno, video)
   * Algoritmos de boosting para problemas de regresión (cuaderno, video)
 
 **PARTE 3: APRENDIZAJE NO SUPERVISADO**
