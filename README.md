@@ -32,7 +32,7 @@ El grado de dificultad de la mayoría de los contenidos presentados ese puede co
 * Bancos de datos de trabajo (cuaderno, video)
 * Librería Scikit-learn
   * Primeros pasos I ([cuaderno](https://github.com/jmsocuellamos/MachineLearning/blob/main/30_Primeros_pasos_con_Scikit_Learn_I.ipynb), video)
-  * Primeros pasos II (cuaderno, video)
+  * Primeros pasos II ([cuaderno](https://github.com/jmsocuellamos/MachineLearning/blob/main/40_Primeros_pasos_con_Scikit_Learn_II.ipynb), video)
 
 **PARTE 2: APRENDIZAJE SUPERVISADO**
 
