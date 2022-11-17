@@ -31,7 +31,7 @@ El grado de dificultad de la mayoría de los contenidos presentados ese puede co
 * Introducción a los algoritmos de aprendizaje automático ([cuaderno](https://github.com/jmsocuellamos/MachineLearning/blob/main/10_Introducci%C3%B3n_al_aprendizaje_autom%C3%A1tico.ipynb), video)
 * Bancos de datos de trabajo (cuaderno, video)
 * Librería Scikit-learn
-  * Primeros pasos I (cuaderno, video)
+  * Primeros pasos I ([cuaderno](https://github.com/jmsocuellamos/MachineLearning/blob/main/30_Primeros_pasos_con_Scikit_Learn_I.ipynb), video)
   * Primeros pasos II (cuaderno, video)
 
 **PARTE 2: APRENDIZAJE SUPERVISADO**
