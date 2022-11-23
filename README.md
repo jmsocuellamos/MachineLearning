@@ -22,7 +22,7 @@ Estudiantes de grado y postgrado con un curso básico de programación en python
 
 ## Nivel de dificultad
 
-El grado de dificultad de la mayoría de los contenidos presentados ese puede considerar de nivel intermedio debido a los requisitos para comprender y desarrollar la mayoría de ellos. En algunos temas el nivel es más avanzado al tratarse de algortimos más teóricos o cun desarrollo matemático superior.
+El grado de dificultad de la mayoría de los contenidos presentados ese puede considerar de nivel intermedio debido a los requisitos para comprender y desarrollar la mayoría de ellos. En algunos temas el nivel es más avanzado al tratarse de algortimos más teóricos o con un desarrollo matemático superior.
 
 ## Índice de contenidos
 
