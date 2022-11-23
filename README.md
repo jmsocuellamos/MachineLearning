@@ -18,7 +18,7 @@ Fernando Borrás (f.borras@umh.es), Federico Botella (federico@umh.es), Inés He
 
 ## Dirigido a
 
-Estudiantes de grado y postgrado con un curso básico de programación en python y de estadística interesados en conocer el funcionamiento de los procedimientos o algoritmos de machine learning (aprendizaje automático) en la aplaicación de situaciones reales.
+Estudiantes de grado y postgrado con un curso básico de programación en python y de estadística interesados en conocer el funcionamiento de los procedimientos o algoritmos de machine learning (aprendizaje automático) en la aplicación de situaciones reales.
 
 ## Nivel de dificultad
 
