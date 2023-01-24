@@ -28,8 +28,6 @@ El grado de dificultad de la mayoría de los contenidos presentados ese puede co
 
 **PARTE 1: INTRODUCCIÓN AL APRENDIZAJE AUTOMÁTICO**
 
-[![Vídeo Introdución](https://img.shields.io/static/v1.svg?logo=youtube&label=YouTube&message=Part%201&color=red)](https://youtu.be/X5m7bC4xCLY)
-
 * Introducción a los algoritmos de aprendizaje automático 
 [![Ver en Github](https://img.shields.io/static/v1.svg?logo=github&label=Repo&message=View%20On%20Github&color=lightgrey)](https://github.com/jmsocuellamos/MachineLearning/blob/main/10_Introducci%C3%B3n_al_aprendizaje_autom%C3%A1tico.ipynb)
 [![Abrir en Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ccuh0-Aanm-oRycwoHwk0d4jnEB_EREC) 
